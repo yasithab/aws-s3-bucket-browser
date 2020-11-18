@@ -42,6 +42,7 @@ Single HTML file to browse AWS S3 buckets
       }
       ```
 * Open `<YOUR BUCKET URL>/index.html` in your browser.
+* Note: You do **NOT** need to enable **static website hosting** option. Access the the content using bucket URL.
 
 #### Hosted
 * ⚠️ Ensure following Bucket Permissions
